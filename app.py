@@ -2,7 +2,7 @@ import streamlit as st
 from moviepy.editor import *
 
 st.set_page_config(
-    page_title="SplitFX",
+    page_title="Split FX",
     page_icon="icon.png",
     menu_items={
         "About":"SplitFX provides a fast and intuitive way to combine videos into a split-screen layout. Whether for YouTube, Instagram, or any other platform, create professional-looking videos with just a few clicks."
